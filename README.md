@@ -7,4 +7,4 @@ Este repositorio se utiliza como _sandbox_ para el ejercicio T3 de la PEC 1 de l
 
 Aquest repositori es fa servir com _sandbox_ per l'exercici de la PAC 1 de l'assignatura Programació en Javascript per a Programadors. 
 
-João Martinho | jomartinho | 1
+João Martinho |  jomartinho | 1
